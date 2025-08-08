@@ -15,7 +15,13 @@
     border-radius: 5px;
     padding: 1vw;
     display: grid;
-    grid-template-rows: 9fr 1fr;
+    grid-template-rows: 4fr 1fr;
+}
+
+.project-card .icons {
+    display: flex;
+    gap: 1vw;
+    justify-content: flex-end;
 }
 
 .anoun-card {
@@ -25,14 +31,27 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+    margin-bottom: 2vw;
 }
 
 .anoun-card-txt {
     border-bottom: 1px solid var(--grey);
-    padding-bottom: 1rem;
+    padding-bottom: 10px;
 }
 
 .card-txt p {
-    font-size: 0.8rem;
+    font-size: clamp(12px, 1rem, 1rem + 4px);
     color: #9d9d9d;
+}
+
+.trending-card-txt {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr 1fr;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.trending-card-txt span {
+    grid-row: 1 / 3;
 }

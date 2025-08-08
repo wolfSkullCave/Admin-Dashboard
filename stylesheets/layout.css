@@ -14,7 +14,7 @@
     grid-row: first-row / end-row;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 2vw;
     padding: 2vw 5vw;
 }
 
@@ -42,7 +42,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: auto auto;
-    gap: 2rem;
+    gap: 1.5vw;
     align-items: center;
 }
 
@@ -55,21 +55,21 @@
 .search-2 {
     display: flex;
     justify-content: flex-end;
-    gap: 2rem;
+    gap: 2vw;
     align-items: center;
 }
 
 .profile-1 {
     display: grid;
     grid-template-columns: auto 2fr;
-    gap: 1rem;
+    gap: 1vw;
     align-items: center;
 }
 
 .profile-2 {
     display: flex;
     justify-content: flex-end;
-    gap: 2rem;
+    gap: 2vw;
 }
 
 .content {
@@ -78,14 +78,14 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: auto 3fr;
-    gap: 2rem;
+    gap: 2vw;
 }
 
 .projects {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto repeat(3, 1fr);
-    gap: 2rem;
+    gap: 1vw;
 }
 
 .projects .heading {
@@ -95,5 +95,5 @@
 .anoun {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1vw;
 }
