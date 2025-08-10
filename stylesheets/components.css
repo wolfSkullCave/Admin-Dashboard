@@ -69,3 +69,20 @@
     width: 20px;
 }
 
+input[type="button"] {
+    border: 1px solid var(--blue);
+    border-radius: 50px;
+    background-color: var(--blue);
+    color: white;
+    padding: 8px 24px;
+    font-weight: 600;
+}
+
+.trending-card h3 {
+    margin-bottom: 1vw;
+}
+
+.anoun p {
+    font-size: clamp(12px, 14px, 16px);
+    color: #9d9d9d;
+}
