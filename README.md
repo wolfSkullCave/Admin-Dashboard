@@ -41,6 +41,13 @@ The dashboard is divided into three main sections:
 ![Dashboard Screenshot](images/admin-dashboard-screenshot.jpeg)
 
 
+## ⚠️ Known Issues
+
+- Layout is not repsonsive
+- Page contains no links
+- Page contains placeholder content
+
+
 ## 🙌 Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) for the project inspiration and curriculum
