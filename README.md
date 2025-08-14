@@ -38,8 +38,14 @@ The dashboard is divided into three main sections:
 - Improve visual hierarchy and spacing using modern CSS
 
 ## 📸 Screenshots
+![Dashboard Screenshot](images/admin-dashboard-screenshot.jpeg)
 
-*You can add screenshots here to showcase your layout.*
+
+## ⚠️ Known Issues
+
+- Layout is not repsonsive
+- Page contains no links
+- Page contains placeholder content
 
 
 ## 🙌 Acknowledgements
