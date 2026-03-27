@@ -37,8 +37,10 @@ The dashboard is divided into three main sections:
 - Build a clean, functional layout from a design mockup
 - Improve visual hierarchy and spacing using modern CSS
 
-## 📸 Screenshots
+## 📸 Demo
 ![Dashboard Screenshot](images/admin-dashboard-screenshot.jpeg)
+
+(Click the image to open a demo)
 
 
 ## ⚠️ Known Issues
